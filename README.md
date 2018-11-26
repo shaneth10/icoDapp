@@ -28,3 +28,10 @@ DApp 服务进程管理非 pm2 莫属了，不管 DApp 部署在常规虚拟机�
 # 两条命令
 如果要部署智能合约 执行：npm run deploy 
 如果要部署DApp 执行：npm run start
+
+# 开启项目
+克隆：https://github.com/shaneth10/icoDapp.git
+安装依赖包：cnpm install 或者 npm install
+安装config：npm install config
+启动项目：npm run dev
+
